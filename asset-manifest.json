@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//d4v1dk.github.io/rolodex/static/css/main.d587bdea.chunk.css",
+    "main.js": "/https//d4v1dk.github.io/rolodex/static/js/main.f44f1f52.chunk.js",
+    "main.js.map": "/https//d4v1dk.github.io/rolodex/static/js/main.f44f1f52.chunk.js.map",
+    "runtime-main.js": "/https//d4v1dk.github.io/rolodex/static/js/runtime-main.af0c7d08.js",
+    "runtime-main.js.map": "/https//d4v1dk.github.io/rolodex/static/js/runtime-main.af0c7d08.js.map",
+    "static/js/2.421acf3a.chunk.js": "/https//d4v1dk.github.io/rolodex/static/js/2.421acf3a.chunk.js",
+    "static/js/2.421acf3a.chunk.js.map": "/https//d4v1dk.github.io/rolodex/static/js/2.421acf3a.chunk.js.map",
+    "index.html": "/https//d4v1dk.github.io/rolodex/index.html",
+    "precache-manifest.142a60e37af30732797c899cbf27a1db.js": "/https//d4v1dk.github.io/rolodex/precache-manifest.142a60e37af30732797c899cbf27a1db.js",
+    "service-worker.js": "/https//d4v1dk.github.io/rolodex/service-worker.js",
+    "static/css/main.d587bdea.chunk.css.map": "/https//d4v1dk.github.io/rolodex/static/css/main.d587bdea.chunk.css.map",
+    "static/js/2.421acf3a.chunk.js.LICENSE.txt": "/https//d4v1dk.github.io/rolodex/static/js/2.421acf3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0c7d08.js",
+    "static/js/2.421acf3a.chunk.js",
+    "static/css/main.d587bdea.chunk.css",
+    "static/js/main.f44f1f52.chunk.js"
+  ]
+}
